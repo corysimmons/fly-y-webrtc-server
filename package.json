@@ -1,6 +1,9 @@
 {
   "name": "fly-y-webrtc-server",
   "private": true,
+  "scripts": {
+    "start": "node server.mjs"
+  },
   "dependencies": {
     "lib0": "^0.2.88",
     "ws": "^8.16.0"
